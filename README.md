@@ -18,15 +18,24 @@ Có các chức năng:
 
 
 **1. Chèn ảnh**
-Nhập các thông tin:\n
+
+Nhập các thông tin:
+
   Tên ảnh
+  
   Độ phân giải
+  
   Nơi chụp
+  
   Ngày chụp
   
   
 **2. Xóa ảnh**
+
 Xóa ảnh theo tất cả thông tin dưới đây:
+
   Tên ảnh
+  
   Độ phân giải
+  
   Nơi chụp
