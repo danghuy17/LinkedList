@@ -23,6 +23,8 @@ Nhập các thông tin:
   Độ phân giải
   Nơi chụp
   Ngày chụp
+  
+  
 **2. Xóa ảnh**
 Xóa ảnh theo tất cả thông tin dưới đây:
   Tên ảnh
