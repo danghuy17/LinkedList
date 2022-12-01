@@ -18,7 +18,7 @@ Có các chức năng:
 
 
 **1. Chèn ảnh**
-Nhập các thông tin:
+Nhập các thông tin:\n
   Tên ảnh
   Độ phân giải
   Nơi chụp
